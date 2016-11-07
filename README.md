@@ -19,6 +19,7 @@ What's in my queue... feel free to have a look around.
 - [Motion Sickness Podcast](http://motionsicknesspodcast.com/)
 - [Animation Addicts](http://www.rotoscopers.com/category/podcasts/animation-addicts/)
 - [99% Invisible](http://99percentinvisible.org/)
+- [Toolsday](http://www.toolsday.io/)
 - [National Theatre: Podcasts](https://itunes.apple.com/us/podcast/national-theatre-podcasts/id486761654?mt=2)
 - [Shop Talk Show](http://shoptalkshow.com/)
 - [Pixels](http://frenchspin.com/category/pixels/)
