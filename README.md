@@ -1,7 +1,5 @@
 # Podcasts
 
-What's in my queue... feel free to have a look around.
-
 ## Aggregators
 - [Radiotopia](https://www.radiotopia.fm/)
 
