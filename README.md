@@ -6,6 +6,7 @@
 ## Single Shows
 Ordered chronologically, by most-recent date added.
 
+- [Science VS](https://gimletmedia.com/science-vs/)
 - [Pod Save America](https://getcrookedmedia.com/here-have-a-podcast-78ee56b5a323#.t9rzl6ak1)
 - [Pod Save The World](https://getcrookedmedia.com/pod-save-the-world-7cc67d64dd56#.ob8swfp6x)
 - [Daily Tech News Show](https://www.youtube.com/user/dailytechnewsshow/videos)
