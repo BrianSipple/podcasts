@@ -27,7 +27,6 @@ Ordered chronologically, by most-recent date added.
 - [Ember Weekend](http://emberweekend.com/episodes)
 - [GeekWire](http://www.geekwire.com/podcast/)
 - [On the Media](http://www.wnyc.org/shows/otm)
-- [Creative Mornings](https://creativemornings.com/podcast)
 - [StarTalk Radio w/ Neil Degrasse Tyson](https://www.startalkradio.net/)
 - [Track Changes](https://trackchanges.postlight.com/)
 - [What's The Point](http://fivethirtyeight.com/tag/whats-the-point/)
