@@ -43,3 +43,6 @@ Ordered chronologically, by most-recent date added.
 - [The Game Informer Show](https://www.gameinformer.com/b/podcasts/default.aspx)
 - [The Web Platform Podcast](https://thewebplatform.libsyn.com/)
 - [The Mutant Gene Podcast](https://art19.com/shows/the-mutant-gene-podcast)
+
+# Quasi-Podcasts
+- [Questlove Supreme](questlovesupreme.com)
